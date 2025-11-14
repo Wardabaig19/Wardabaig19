@@ -1,9 +1,9 @@
-### Hi there, I'm Warda! [cite_start]👋 [cite: 1]
+### Hi there, I'm Warda!👋
 
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda_Baig-blue)](https://www.linkedin.com/in/warda-baig-279429256) [cite: 2]
-[cite_start][![Email](https://img.shields.io/badge/Email-wardabaig19@gmail.com-red)](mailto:wardabaig19@gmail.com) [cite: 2]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warda_Baig-blue)](https://www.linkedin.com/in/warda-baig-279429256) [cite: 2]
+[![Email](https://img.shields.io/badge/Email-wardabaig19@gmail.com-red)](mailto:wardabaig19@gmail.com) [cite: 2]
 
-[cite_start]I'm a Bachelor's student at **Murdoch University Dubai**, pursuing a double major in **Computer Science** and **Artificial Intelligence & Autonomous Systems**[cite: 4, 10]. [cite_start]I'm a highly motivated and passionate team player [cite: 6] [cite_start]seeking an internship or part-time role in the IT or AI field where I can leverage my skills for an organization's success[cite: 5, 7].
+I'm a Bachelor's student at **Murdoch University Dubai**, pursuing a double major in **Computer Science** and **Artificial Intelligence & Autonomous Systems** I'm a highly motivated and passionate team player seeking an internship or part-time role in the IT or AI field where I can leverage my skills for an organization's success.
 
 ---
 
