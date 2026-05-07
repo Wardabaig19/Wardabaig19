@@ -1,8 +1,8 @@
 ### Hi there, I'm Warda 👋
 
-I'm a Bachelor's student at **Murdoch University Dubai**, based in Dubai, UAE. I'm pursuing a double major in **Computer Science** and **Artificial Intelligence & Autonomous Systems** with a passion for building intelligent solutions.
+I'm a Bachelor's graduate from **Murdoch University Dubai**, based in Dubai, UAE. I pursued a double major in **Computer Science** and **Artificial Intelligence & Autonomous Systems** with a passion for building intelligent solutions.
 
-- 🔭 I’m currently building projects in object detection (using YOLOv8), sentiment analysis (using BERTopic), and full-stack web development.
+- 🔭 I’m currently building projects in object detection (using YOLOv11 and Transformer-based architectures).
 - 🌱 I’m diving deeper into advanced AI frameworks like TensorFlow, PyTorch, and Hugging Face.
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/warda-baig-279429256)
