@@ -20,8 +20,6 @@ I'm a Bachelor's graduate from **Murdoch University Dubai**, based in Dubai, UAE
 
 ---
 
-[![Warda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wardabaig19&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Wardabaig19/Wardabaig19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
